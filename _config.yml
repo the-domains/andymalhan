@@ -1,0 +1,28 @@
+name: andymalhan
+favicon: null
+layout_spectrum: 0.4838141694199294
+typography_spectrum: 0.1361832998227328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.26799382525496185
+  lightness: 0.8991889948956668
+  saturation: 0.38252653600648046
+  rhythmicContrast: 0.12955425563268363
+purpose: []
