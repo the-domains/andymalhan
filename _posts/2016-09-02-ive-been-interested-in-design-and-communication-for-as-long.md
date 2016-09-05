@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been interested in design and communication for as long as I remember.\_"
-datePublished: '2016-09-02T04:21:55.212Z'
-dateModified: '2016-09-02T04:21:21.828Z'
+datePublished: '2016-09-02T09:59:57.445Z'
+dateModified: '2016-09-02T09:59:30.936Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-09-02-ive-been-interested-in-design-and-communication-for-as-long.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-09-02-ive-been-interested-in-design-and-communication-for-as-long.md
 url: ive-been-interested-in-design-and-communication-for-as-long/index.html
 _type: Article
 
@@ -34,6 +34,7 @@ Hindsight, of course, is 20-20\. When you look back, it is easy to connect the d
 Go figure.
 
 [So in 1998 I opened TSA Effects][1].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/448021b7-833b-475b-80c2-95384b8c536b.jpg)
 
 [0]: http://www.woodstockschool.com/
 [1]: http://www.tsa.in/
