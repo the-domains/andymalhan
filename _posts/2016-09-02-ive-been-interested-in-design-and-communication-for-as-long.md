@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "I've been interested in design and communication for as long as I remember.\_"
-datePublished: '2016-09-02T10:04:50.499Z'
-dateModified: '2016-09-02T10:01:54.819Z'
+datePublished: '2016-09-02T10:16:07.085Z'
+dateModified: '2016-09-02T10:05:05.923Z'
 title: ''
 author: []
 via: {}
@@ -16,7 +16,7 @@ authors: []
 publisher: {}
 starred: false
 url: ive-been-interested-in-design-and-communication-for-as-long/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59a9b883-a09a-4289-94de-f904c30be0a7.jpg)
