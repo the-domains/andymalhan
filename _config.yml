@@ -29,11 +29,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Design
-    id: 7a42d98f-02d5-42cd-b81d-df06a6ce758d
-    type: content
   - name: About me
     id: 40b5d1f0-4738-46d1-bf25-763d2a0889c9
+    type: content
+  - name: Design
+    id: 7a42d98f-02d5-42cd-b81d-df06a6ce758d
     type: content
 favicon: null
 title: This and that
