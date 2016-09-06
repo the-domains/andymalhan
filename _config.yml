@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Randhir Andy Malhan
+  email: andy@tsa.in
+  url: ''
 name: andymalhan
 cta:
   domain: null
