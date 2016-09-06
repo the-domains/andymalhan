@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T10:30:15.200Z'
+datePublished: '2016-09-02T10:33:58.806Z'
 sourcePath: >-
   _posts/2016-09-02-ive-been-interested-in-design-and-communication-for-as-long.md
 inFeed: false
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T10:30:14.377Z'
+dateModified: '2016-09-02T10:33:57.704Z'
 title: ''
 publisher: {}
 description: I've been interested in design and communication for as long as I remember.
