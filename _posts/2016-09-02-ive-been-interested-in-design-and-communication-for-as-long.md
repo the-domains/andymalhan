@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "I've been interested in design and communication for as long as I remember.\_"
-datePublished: '2016-09-02T10:16:07.085Z'
-dateModified: '2016-09-02T10:05:05.923Z'
+datePublished: '2016-09-02T10:17:43.258Z'
+dateModified: '2016-09-02T10:17:42.201Z'
 title: ''
 author: []
 via: {}
