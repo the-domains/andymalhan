@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Design
+    id: 7a42d98f-02d5-42cd-b81d-df06a6ce758d
+    type: content
 favicon: null
 title: This and that
 description: 'Ramblings about this, that and the other'
