@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T11:09:44.392Z'
+datePublished: '2016-09-03T11:09:44.473Z'
 sourcePath: >-
   _posts/2016-09-02-ive-been-interested-in-design-and-communication-for-as-long.md
 inFeed: false
