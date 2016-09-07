@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T02:48:55.793Z'
+datePublished: '2016-09-03T11:09:44.392Z'
 sourcePath: >-
   _posts/2016-09-02-ive-been-interested-in-design-and-communication-for-as-long.md
 inFeed: false
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-03T02:47:07.533Z'
+dateModified: '2016-09-03T03:07:31.221Z'
 title: The beginning of design in my life
 publisher: {}
 description: I've been interested in design and communication for as long as I remember.
@@ -27,9 +27,9 @@ Recurring tile patterns on floors would keep me mesmerised for hours, _"Where do
 
 My doodling and scribbling also filled my textbooks and adorned my desks -- much to the annoyance of my teachers. One particular math teacher, at [Woodstock School][0], Mr. Sinclair, refused to issue me a school-owned textbook, and wrote a letter to my parents complaining about my incessant doodling. He added, in some bafflement, that I was even doodling in other people's textbooks! We lived in Guyana at the time, and my father had to order the text from London. He wasn't pleased.
 
-I also spent a lot of time thinking about human behaviour. Why do people _do_ the things they do? Why do they _say_ the things they do? What motivates them? What would they do/say if _this_ happened? If _that_ happened? I realised that there are no good and bad people in the world, there are just people responding to their situations. There are good and bad times in people's lives, and we all react to those times in different ways, but in the best way that we can. Alan Pease's book, _[Body Language][1]_, absolutely fascinated me and I devoured it in one sitting. The dog-eared and tattered copy is still on my bookshelf, and I reread it often.
+I also spent a lot of time thinking about human behaviour. Why do people _do_ the things they do? Why do they _say_ the things they do? What motivates them? What would they do/say if _this_ happened? If _that_ happened? I realised that there are no good and bad people in the world, there are just people responding to their situations. There are good and bad times in people's lives, and we all react to those times in different ways, but in the best way that we can. Alan Pease's book, _[Body Language][1]_, absolutely fascinated me and I devoured it in one sitting. Then I read it again. And again. My dog-eared and tattered copy still lives on my bookshelf, and I refer to it often.
 
-My favourite subjects in school were mathematics and physics. I had, in my father's words, "...an engineering bend of mind", and went on to study Computer Science in New York. A couple of years after returning to India, I told him I wanted to open a design and communications studio. He looked at me as if I had a hole in my head and said, "Why have we spent all this money on a Computer Science degree? You could have just as well have studied design!"
+My favourite subjects in school were mathematics and physics. I had, in my father's words, "...an engineering bend of mind", and went on to study Computer Science in New York. A couple of years after returning to India, I told him I wanted to open a design and communications studio. He looked at me as if I had a hole in my head and said, "Why have we spent all this money on a Computer Science degree? You could have just as easily have studied design!"
 
 Hindsight, of course, is 20-20\. When you look back, it is easy to connect the dots. I've doodled my way through life and have enrolled in art courses all through school and college. When I meet old friends and talk about what I do for work, they almost always say, "I knew you'd do something creative."
 
